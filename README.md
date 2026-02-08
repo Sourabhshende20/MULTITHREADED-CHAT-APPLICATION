@@ -72,3 +72,4 @@ Foundation for more advanced applications like multiplayer game lobbies, real-ti
 Prototype for future GUI-based chat systems using JavaFX or web-socket-based services.
 
 # Output:
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/477103ee-447e-4af2-9a2b-d575ec66dff0" />
